@@ -19,7 +19,7 @@ In Response Box, you will get your response on clicking the `Submit` Button.
 
 ## Link 
 ```
-https://hrithik1122.github.io/Postman-Clone/
+https://hrithik1122.github.io/PostMan/
 ```
 
 ***
